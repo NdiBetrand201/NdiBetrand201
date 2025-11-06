@@ -177,48 +177,27 @@
 
 <div align="center">
 
-### 🌟 Coming Soon - Exciting Projects in Development!
+<a href="https://github.com/NdiBetrand201/NdiBetrand201">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NdiBetrand201&repo=NdiBetrand201&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=00D9FF&text_color=FFFFFF" />
+</a>
+
+<br/><br/>
+
+</div>
+
+<div align="center">
+
+**🚀 More amazing projects coming soon!**
 
 <br/>
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🚀 Project 1</h3>
-<p align="center"><i>Currently building something amazing...</i></p>
-<p align="center">
-<img src="https://img.shields.io/badge/Status-In%20Development-FF6B9D?style=for-the-badge" alt="Status"/>
-</p>
-</td>
-<td width="50%">
-<h3 align="center">💡 Project 2</h3>
-<p align="center"><i>Innovation in progress...</i></p>
-<p align="center">
-<img src="https://img.shields.io/badge/Status-Planning-00D9FF?style=for-the-badge" alt="Status"/>
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">🔥 Project 3</h3>
-<p align="center"><i>Stay tuned for updates...</i></p>
-<p align="center">
-<img src="https://img.shields.io/badge/Status-Ideation-7B68EE?style=for-the-badge" alt="Status"/>
-</p>
-</td>
-<td width="50%">
-<h3 align="center">⚡ Open Source</h3>
-<p align="center"><i>Contributing to the community...</i></p>
-<p align="center">
-<img src="https://img.shields.io/badge/Status-Active-00FF00?style=for-the-badge" alt="Status"/>
-</p>
-</td>
-</tr>
-</table>
+<i>To add more projects, use this format:</i>
 
-<br/>
-
-<p><i>💡 Once you create repositories, replace this section with actual project cards!</i></p>
+```markdown
+<a href="https://github.com/NdiBetrand201/your-repo-name">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NdiBetrand201&repo=your-repo-name&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=00D9FF&text_color=FFFFFF" />
+</a>
+```
 
 </div>
 
