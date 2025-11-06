@@ -14,19 +14,17 @@
 
 <div align="center">
 
-```typescript
-const ndiBetrand = {
-    name: "Ndi Betrand",
-    location: "Cameroon 🇨🇲",
-    role: "Full Stack Developer",
-    languages: ["Java", "Python", "C", "C++", "JavaScript", "TypeScript"],
-    interests: ["Web Development", "Cloud Computing", "AI/ML", "Open Source"],
-    currentlyLearning: ["Docker", "Kubernetes", "Microservices", "System Design"],
-    workingOn: ["Building scalable applications", "Contributing to open source"],
-    funFact: "I debug code faster than I drink coffee ☕",
-    motto: "Code is poetry written in logic 💻"
-};
-```
+| 👨‍💻 | Information |
+|:---:|:---|
+| 📛 **Name** | Ndi Betrand |
+| 📍 **Location** | Cameroon 🇨🇲 |
+| 💼 **Role** | Full Stack Developer |
+| 🗣️ **Languages** | Java, Python, C, C++, JavaScript, TypeScript |
+| 🎯 **Interests** | Web Development, Cloud Computing, AI/ML, Open Source |
+| 📚 **Currently Learning** | Docker, Kubernetes, Microservices, System Design |
+| 🔨 **Working On** | Building scalable applications, Contributing to open source |
+| ⚡ **Fun Fact** | I debug code faster than I drink coffee ☕ |
+| 💭 **Motto** | Code is poetry written in logic 💻 |
 
 </div>
 
@@ -148,37 +146,28 @@ const ndiBetrand = {
 
 <div align="center">
 
-```javascript
-const currentGoals2025 = {
-  learning: [
-    "Advanced System Design",
-    "Microservices Architecture", 
-    "Cloud-Native Development",
-    "DevOps Best Practices"
-  ],
-  building: [
-    "Scalable SaaS Platforms",
-    "Open Source Tools & Libraries",
-    "Technical Blog & Content"
-  ],
-  collaborating: [
-    "Open Source Projects",
-    "Innovative Startup Ideas",
-    "Developer Communities"
-  ],
-  reading: [
-    "Clean Architecture - Robert C. Martin",
-    "Designing Data-Intensive Applications",
-    "System Design Interview Books"
-  ],
-  yearlyGoals: {
-    openSource: "Contribute to 50+ projects",
-    products: "Launch 3 production applications",
-    learning: "Master cloud architecture",
-    community: "Help 100+ developers"
-  }
-};
-```
+### 📚 Learning Journey
+**Advanced System Design** • **Microservices Architecture** • **Cloud-Native Development** • **DevOps Best Practices**
+
+### 🚀 Building
+**Scalable SaaS Platforms** • **Open Source Tools & Libraries** • **Technical Blog & Content**
+
+### 🤝 Collaborating On
+**Open Source Projects** • **Innovative Startup Ideas** • **Developer Communities**
+
+### 📖 Currently Reading
+- Clean Architecture - Robert C. Martin
+- Designing Data-Intensive Applications
+- System Design Interview Books
+
+### 🎯 2025 Goals
+
+| Goal | Target |
+|:---|:---:|
+| 🌟 Open Source Contributions | 50+ projects |
+| 🚀 Production Applications | 3 launches |
+| ☁️ Learning Focus | Master cloud architecture |
+| 💡 Community Impact | Help 100+ developers |
 
 </div>
 
