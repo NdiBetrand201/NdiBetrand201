@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full+Stack+Developer+from+Cameroon+%F0%9F%87%A8%F0%9F%87%B2;Building+Amazing+Web+Applications+%F0%9F%9A%80;Passionate+about+Clean+Code+%E2%9C%A8;Always+Learning+New+Technologies+%F0%9F%92%A1;Let's+Create+Something+Awesome+Together!+%F0%9F%94%A5)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=Welcome+to+my+GitHub+Profile!+👋;Full+Stack+Developer+from+Cameroon+🇨🇲;Building+Amazing+Web+Applications+🚀;Passionate+about+Clean+Code+✨;Always+Learning+New+Technologies+💡;Let's+Create+Something+Awesome+Together!+🔥)](https://git.io/typing-svg)
 
 </div>
 
@@ -119,19 +119,19 @@ const ndiBetrand = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NdiBetrand201&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NdiBetrand201&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NdiBetrand201&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true&ring_color=FF6B9D" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NdiBetrand201&theme=radical&hide_border=true&background=0D1117&stroke=FF6B9D&ring=FF6B9D&fire=00D9FF&currStreakLabel=FF6B9D&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NdiBetrand201&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8&hide=jupyter%20notebook" alt="Top Languages"/>
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=NdiBetrand201&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF" alt="Contribution Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NdiBetrand201&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF&langs_count=8&hide=jupyter%20notebook" alt="Top Languages"/>
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=NdiBetrand201&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF&icon_color=00D9FF" alt="Contribution Stats"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NdiBetrand201&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NdiBetrand201&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B9D&line=00D9FF&point=FFFFFF&area=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" width="98%"/>
 </div>
 
 <br/>
@@ -139,19 +139,7 @@ const ndiBetrand = {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NdiBetrand201&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
-## 📈 Contribution Stats
-
-<div align="center">
-
-| 📊 **Stats** | 📈 **Details** |
-|:---:|:---:|
-| ![](https://img.shields.io/github/stars/NdiBetrand201?style=for-the-badge&logo=github&logoColor=white&color=00D9FF) | ![](https://img.shields.io/github/commit-activity/m/NdiBetrand201/NdiBetrand201?style=for-the-badge&logo=github&logoColor=white&color=00D9FF&label=Commits) |
-
+  <img src="https://github-profile-trophy.vercel.app/?username=NdiBetrand201&theme=radical&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -162,28 +150,28 @@ const ndiBetrand = {
 
 ```javascript
 const currentGoals2025 = {
-  🎓 learning: [
+  learning: [
     "Advanced System Design",
     "Microservices Architecture", 
     "Cloud-Native Development",
     "DevOps Best Practices"
   ],
-  🚀 building: [
+  building: [
     "Scalable SaaS Platforms",
     "Open Source Tools & Libraries",
     "Technical Blog & Content"
   ],
-  🤝 collaborating: [
+  collaborating: [
     "Open Source Projects",
     "Innovative Startup Ideas",
     "Developer Communities"
   ],
-  📚 reading: [
+  reading: [
     "Clean Architecture - Robert C. Martin",
     "Designing Data-Intensive Applications",
     "System Design Interview Books"
   ],
-  🎯 yearlyGoals: {
+  yearlyGoals: {
     openSource: "Contribute to 50+ projects",
     products: "Launch 3 production applications",
     learning: "Master cloud architecture",
@@ -200,17 +188,9 @@ const currentGoals2025 = {
 
 <div align="center">
 
-<!-- Replace 'project-name' with your actual repository names -->
 <a href="https://github.com/NdiBetrand201">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NdiBetrand201&repo=NdiBetrand201&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="Featured Repo 1"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NdiBetrand201&repo=NdiBetrand201&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=00D9FF&text_color=FFFFFF" alt="Featured Repo 1"/>
 </a>
-
-<!-- Add more repos as they become available -->
-<!-- 
-<a href="https://github.com/NdiBetrand201/your-repo-name">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NdiBetrand201&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="Featured Repo 2"/>
-</a>
--->
 
 </div>
 
@@ -244,7 +224,7 @@ const currentGoals2025 = {
 
 <div align="center">
   
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
 
 </div>
 
@@ -258,8 +238,6 @@ const currentGoals2025 = {
 
 <!--END_SECTION:waka-->
 
-> 💡 **Tip:** To show real-time coding stats here, set up [WakaTime](https://wakatime.com/) and add the GitHub Action to your profile!
-
 </div>
 
 <br/>
@@ -270,13 +248,7 @@ const currentGoals2025 = {
 
 ### 📅 Today's Dev Joke
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
-
-### 🎵 Coding Vibes
-
-![Spotify](https://novatorem-ndibetrand201.vercel.app/api/spotify)
-
-> 💡 **Tip:** Connect Spotify to show what you're listening to while coding!
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
 
 </div>
 
@@ -290,18 +262,11 @@ const currentGoals2025 = {
 
 </div>
 
-> 💡 **Setup Guide:** To enable the snake animation, you need to:
-> 1. Create `.github/workflows/snake.yml` in your profile repository
-> 2. Add the [snake generation workflow](https://github.com/Platane/snk) code
-> 3. Enable GitHub Actions in your repository settings
-
 <br/>
 
 ## ☕ Support My Work
 
 <div align="center">
-
-### If you find my work helpful, consider supporting me! 💖
 
 <a href="https://buymeacoffee.com/ndibetrand">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
@@ -323,9 +288,9 @@ const currentGoals2025 = {
   
 ### 💬 "The best code is written with passion and shared with purpose"
 
-![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
-![Powered by Coffee](https://img.shields.io/badge/Powered%20by-☕%20Coffee-brown?style=for-the-badge)
-![Built with Code](https://img.shields.io/badge/Built%20with-💻%20Code-blue?style=for-the-badge)
+![Made with Love](https://img.shields.io/badge/Made%20with-❤️-FF6B9D?style=for-the-badge)
+![Powered by Coffee](https://img.shields.io/badge/Powered%20by-☕%20Coffee-00D9FF?style=for-the-badge)
+![Built with Code](https://img.shields.io/badge/Built%20with-💻%20Code-7B68EE?style=for-the-badge)
 
 <br/>
 
