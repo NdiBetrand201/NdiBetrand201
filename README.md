@@ -117,13 +117,19 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NdiBetrand201&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B9D&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NdiBetrand201&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B9D&fire=FF6B9D&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NdiBetrand201&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true&ring_color=FF6B9D" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NdiBetrand201&theme=radical&hide_border=true&background=0D1117&stroke=FF6B9D&ring=FF6B9D&fire=00D9FF&currStreakLabel=FF6B9D&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NdiBetrand201&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=NdiBetrand201&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B9D&point=FFFFFF&area=true" alt="Activity Graph"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NdiBetrand201&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF&langs_count=8&hide=jupyter%20notebook" alt="Top Languages"/>
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=NdiBetrand201&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF&icon_color=00D9FF" alt="Contribution Stats"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NdiBetrand201&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B9D&line=00D9FF&point=FFFFFF&area=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" width="98%"/>
 </div>
 
 <br/>
@@ -131,7 +137,7 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NdiBetrand201&theme=radical&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=NdiBetrand201&theme=radical&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -171,13 +177,48 @@
 
 <div align="center">
 
-<!-- Replace these with your actual project repositories -->
-<a href="https://github.com/NdiBetrand201/your-project-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NdiBetrand201&repo=your-project-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B9D&text_color=FFFFFF" alt="Project 1"/>
-</a>
-<a href="https://github.com/NdiBetrand201/your-project-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NdiBetrand201&repo=your-project-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B9D&text_color=FFFFFF" alt="Project 2"/>
-</a>
+### 🌟 Coming Soon - Exciting Projects in Development!
+
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🚀 Project 1</h3>
+<p align="center"><i>Currently building something amazing...</i></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Status-In%20Development-FF6B9D?style=for-the-badge" alt="Status"/>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">💡 Project 2</h3>
+<p align="center"><i>Innovation in progress...</i></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Status-Planning-00D9FF?style=for-the-badge" alt="Status"/>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">🔥 Project 3</h3>
+<p align="center"><i>Stay tuned for updates...</i></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Status-Ideation-7B68EE?style=for-the-badge" alt="Status"/>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">⚡ Open Source</h3>
+<p align="center"><i>Contributing to the community...</i></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Status-Active-00FF00?style=for-the-badge" alt="Status"/>
+</p>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p><i>💡 Once you create repositories, replace this section with actual project cards!</i></p>
 
 </div>
 
@@ -187,18 +228,20 @@
 
 <div align="center">
   
-<!-- Update these links with your actual profiles -->
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://linkedin.com/in/ndibetrand">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://twitter.com/yourusername">
+<a href="https://twitter.com/ndibetrand">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
 <a href="mailto:ndibetrand237@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://portfolio-website.com">
-  <img src="https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
+<a href="https://instagram.com/ndibetrand">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://dev.to/ndibetrand">
+  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
 </a>
 
 </div>
@@ -209,16 +252,63 @@
 
 <div align="center">
   
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
 
 </div>
 
 <br/>
 
+## 📊 Weekly Coding Activity
 
+<div align="center">
 
+<!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
 
+</div>
+
+<br/>
+
+## 🎨 Dynamic Content
+
+<div align="center">
+
+### 📅 Today's Dev Joke
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/NdiBetrand201/NdiBetrand201/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<br/>
+
+## ☕ Support My Work
+
+<div align="center">
+
+<a href="https://buymeacoffee.com/ndibetrand">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+</a>
+<a href="https://paypal.me/ndibetrand">
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
+</a>
+<a href="https://ko-fi.com/ndibetrand">
+  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi"/>
+</a>
+
+</div>
+
+<br/>
 
 ---
 
