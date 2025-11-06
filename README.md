@@ -177,31 +177,6 @@
 
 <div align="center">
 
-<a href="https://github.com/NdiBetrand201/NdiBetrand201">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NdiBetrand201&repo=NdiBetrand201&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=00D9FF&text_color=FFFFFF" />
-</a>
-
-<br/><br/>
-
-</div>
-
-<div align="center">
-
-**🚀 More amazing projects coming soon!**
-
-<br/>
-
-<i>To add more projects, use this format:</i>
-
-```markdown
-<a href="https://github.com/NdiBetrand201/your-repo-name">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NdiBetrand201&repo=your-repo-name&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=00D9FF&text_color=FFFFFF" />
-</a>
-```
-
-</div>
-
-<br/>
 
 ## 🤝 Let's Connect
 
@@ -261,33 +236,7 @@
 
 <br/>
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/NdiBetrand201/NdiBetrand201/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<br/>
-
-## ☕ Support My Work
-
-<div align="center">
-
-<a href="https://buymeacoffee.com/ndibetrand">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-</a>
-<a href="https://paypal.me/ndibetrand">
-  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
-</a>
-<a href="https://ko-fi.com/ndibetrand">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi"/>
-</a>
-
-</div>
-
-<br/>
 
 ---
 
