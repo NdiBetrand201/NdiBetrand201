@@ -215,31 +215,10 @@
 
 <br/>
 
-## 🐍 Contribution Snake
 
-<div align="center">
 
-![Snake animation](https://github.com/NdiBetrand201/NdiBetrand201/blob/output/github-contribution-grid-snake.svg)
 
-</div>
 
-<br/>
-
-## ☕ Support My Work
-
-<div align="center">
-
-<!-- Update with your actual support links -->
-<a href="https://buymeacoffee.com/yourusername">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-</a>
-<a href="https://paypal.me/yourusername">
-  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
-</a>
-
-</div>
-
-<br/>
 
 ---
 
