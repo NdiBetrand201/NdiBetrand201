@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ndi%20Betrand&fontSize=50&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ndi%20Betrand&fontSize=50&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
 <div align="center">
@@ -19,7 +19,7 @@
 | 📛 **Name** | Ndi Betrand |
 | 📍 **Location** | Cameroon 🇨🇲 |
 | 💼 **Role** | Full Stack Developer |
-| 🗣️ **Languages** | Java, Python, C, C++, JavaScript, TypeScript |
+| 🗣️ **Languages** | Java, Python, C, C++|
 | 🎯 **Interests** | Web Development, Cloud Computing, Open Source |
 | 📚 **Currently Learning** | Docker, Kubernetes, Microservices, System Design |
 | ⚡ **Fun Fact** | I debug code faster than I drink coffee ☕ |
