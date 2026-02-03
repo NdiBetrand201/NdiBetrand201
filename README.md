@@ -20,9 +20,8 @@
 | 📍 **Location** | Cameroon 🇨🇲 |
 | 💼 **Role** | Full Stack Developer |
 | 🗣️ **Languages** | Java, Python, C, C++, JavaScript, TypeScript |
-| 🎯 **Interests** | Web Development, Cloud Computing, AI/ML, Open Source |
+| 🎯 **Interests** | Web Development, Cloud Computing, Open Source |
 | 📚 **Currently Learning** | Docker, Kubernetes, Microservices, System Design |
-| 🔨 **Working On** | Building scalable applications, Contributing to open source |
 | ⚡ **Fun Fact** | I debug code faster than I drink coffee ☕ |
 | 💭 **Motto** | Code is poetry written in logic 💻 |
 
@@ -74,8 +73,6 @@
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 </p>
 
@@ -85,7 +82,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
 
@@ -95,7 +91,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
 </p>
@@ -143,11 +138,9 @@
 ### 📚 Learning Journey
 **Advanced System Design** • **Microservices Architecture** • **Cloud-Native Development** • **DevOps Best Practices**
 
-### 🚀 Building
-**Scalable SaaS Platforms** • **Open Source Tools & Libraries** • **Technical Blog & Content**
 
-### 🤝 Collaborating On
-**Open Source Projects** • **Innovative Startup Ideas** • **Developer Communities**
+
+
 
 ### 📖 Currently Reading
 - Clean Architecture - Robert C. Martin
@@ -158,8 +151,8 @@
 
 | Goal | Target |
 |:---|:---:|
-| 🌟 Open Source Contributions | 50+ projects |
-| 🚀 Production Applications | 3 launches |
+
+
 | ☁️ Learning Focus | Master cloud architecture |
 | 💡 Community Impact | Help 100+ developers |
 
